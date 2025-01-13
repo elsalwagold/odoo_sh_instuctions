@@ -165,7 +165,7 @@ else:
     st.markdown(
         """
         <div style="text-align: center; margin-bottom: 20px;">
-            <h1 style="color: #2E86C1;">شركة الشلاوي للذهب والمجوهرات</h1>
+            <h1 style="color: #2E86C1;">شركة الشلوي للذهب والمجوهرات</h1>
             <h2 style="color: #34495E;">دليل إعداد Odoo.sh الخاص بك</h2>
             <p style="font-size: 18px;">لقد قمنا بإعداد جميع الحسابات والتكوينات اللازمة لك. استخدم الروابط أدناه للوصول إلى حساباتك وإدارة قاعدة بيانات Odoo.sh الخاصة بك.</p>
         </div>
@@ -178,7 +178,7 @@ else:
         """
         <div style="background-color: #F8F9F9; padding: 20px; border-radius: 10px; border: 2px solid #2E86C1;">
             <h3 style="color: #2C3E50;">معلومات الشركة</h3>
-            <p><strong>شركة الشلاوي للذهب والمجوهرات</strong></p>
+            <p><strong>شركة الشلوي للذهب والمجوهرات</strong></p>
             <p>11484 الرياض</p>
             <p>المملكة العربية السعودية</p>
             <p>الهاتف: +966 50 891 4929</p>
